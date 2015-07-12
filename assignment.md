@@ -1,1 +1,1 @@
-https://github.com/elbertbm/ExData_Plotting1/issues
+1.The pictures are in the "issues" part. 
